@@ -14,7 +14,7 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: left;
-    align-items: left;
+    align-items: right;
     background-image: rgb(250, 8, 8);
     width: 200%;
     height: 200%;
